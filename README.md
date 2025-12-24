@@ -63,9 +63,10 @@ The model performs strongly in identifying **unsuccessful passing plays**, while
 
 ## Tools & Technologies
 * R
-* scikit-learn
-* matplotlib, seaborn
-* Voronoi geometry (scipy)
+* dplyr, purrr
+* ggplot, ggalt
+* gganimate, gifski
+* Voronoi geometry (ggvoronoi2, sf, deldir)
 
 ## Why this project matters
 This project demonstrates:
