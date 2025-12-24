@@ -62,7 +62,7 @@ The model performs strongly in identifying **unsuccessful passing plays**, while
   * Expanded spatial-temporal features
 
 ## Tools & Technologies
-* R
+* **R / RStudio**
 * dplyr, purrr
 * ggplot, ggalt
 * gganimate, gifski
