@@ -26,9 +26,9 @@ The goal is to demonstrate how advanced tracking data can be translated into **a
 * Used **Voronoi diagrams** to partition the field into player-controlled zones
 * Introduced a **Zone Control Percentage** to quantify spatial dominance:
 
-[
-Zone\ Control = \frac{100}{1 + \text{Number of Defenders in Zone}}
-]
+$$
+\text{Zone Control Percentage} = \frac{100}{1 + \text{Number of Defenders in Zone}}
+$$'
 
 * Higher values indicate greater offensive spatial control
 
